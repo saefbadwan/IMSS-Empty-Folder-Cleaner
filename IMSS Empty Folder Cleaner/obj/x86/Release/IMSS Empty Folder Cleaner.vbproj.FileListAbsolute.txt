@@ -1,0 +1,13 @@
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Empty Folder Cleaner\IMSS Empty Folder Cleaner\bin\Release\IMSS Empty Folder Cleaner.exe.config
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Empty Folder Cleaner\IMSS Empty Folder Cleaner\bin\Release\IMSS Empty Folder Cleaner.exe
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Empty Folder Cleaner\IMSS Empty Folder Cleaner\bin\Release\IMSS Empty Folder Cleaner.pdb
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Empty Folder Cleaner\IMSS Empty Folder Cleaner\bin\Release\IMSS Empty Folder Cleaner.xml
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Empty Folder Cleaner\IMSS Empty Folder Cleaner\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Empty Folder Cleaner\IMSS Empty Folder Cleaner\obj\x86\Release\Empty_Folder_Cleaner.IMSS_Scan_GUI.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Empty Folder Cleaner\IMSS Empty Folder Cleaner\obj\x86\Release\Empty_Folder_Cleaner.MainWindow.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Empty Folder Cleaner\IMSS Empty Folder Cleaner\obj\x86\Release\Empty_Folder_Cleaner.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Empty Folder Cleaner\IMSS Empty Folder Cleaner\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Empty Folder Cleaner\IMSS Empty Folder Cleaner\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Empty Folder Cleaner\IMSS Empty Folder Cleaner\obj\x86\Release\IMSS Empty Folder Cleaner.exe
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Empty Folder Cleaner\IMSS Empty Folder Cleaner\obj\x86\Release\IMSS Empty Folder Cleaner.xml
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Empty Folder Cleaner\IMSS Empty Folder Cleaner\obj\x86\Release\IMSS Empty Folder Cleaner.pdb
